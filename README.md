@@ -108,8 +108,9 @@ Contributing to healthcare OSS ecosystems
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-
+<a href="https://charan-tej-guniganti-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00A3FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <p align="center">
   <i>Build clean systems. Contribute upstream. Document everything.</i><br>
   > Building scalable developer systems and contributing to open ecosystems.
